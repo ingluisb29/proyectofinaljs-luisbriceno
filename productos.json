@@ -1,0 +1,26 @@
+{
+
+    "ps": [
+        {
+            "nombre": "budin",
+            "precio": 1000,
+            "cantidad": 100
+        },
+        {
+            "nombre": "macarron",
+            "precio": 700,
+            "cantidad": 400
+        },
+        {
+            "nombre": "hojaldre",
+            "precio": 250,
+            "cantidad": 200
+        },
+        {
+            "nombre": "carrotCake",
+            "precio": 1500 ,
+            "cantidad": 800
+        }
+
+    ]
+}
